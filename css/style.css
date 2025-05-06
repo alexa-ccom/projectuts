@@ -66,8 +66,13 @@ p{
     font-size: 18.1px;
 }
 .tr{
-    color: aliceblue;
+    color:black;
+    background-color: aliceblue;
 }
 td{
     color: aliceblue;
+}
+.hero a:hover{
+    background-color: var(white);
+    color:blue ;
 }
