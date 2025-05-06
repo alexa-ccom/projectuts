@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.logo{
+    width: 20px;
+    height: 20px;
+    position:var(10px);
+    
+}
+.logo1{
+    width: 20px;
+    height: 20px;
+    position:var(10px);
+    
+}
+nav{
+    background-color: rgb(255, 255, 255);
+    /* width: 500px; */
+    padding: 5px ;
+    margin: auto;
+    font-size: 15px;
+    border-radius: 5;
+    box-shadow: 0 3px 9px black;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+nav a{
+    color: black;
+    text-decoration: none;
+}
+body{
+    background-image: url(../bahan/g.jpg);
+    /* background-image: url(../bahan/backgorund.); */
+    background-size: cover;
+    /* background-repeat:no-repeat; */
+    background-attachment: scroll;
+    background-position:center;
+}
+
+/* footer{ 
+    position: ;
+ } */
+h1{
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+    text-align: 50px 50px;
+    max-width: 800px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 16px;
+    margin-left: auto;
+    font-size: 18.1px;
+}
+.tr{
+    color: aliceblue;
+}
+td{
+    color: aliceblue;
+}
