@@ -1,0 +1,45 @@
+.bg{
+    background-color: black;
+}
+#body3{
+    background-color: black;
+}
+#h1{
+    text-align: center;
+    padding: 2rem;
+}
+/* contact me */
+#div1  {
+    flex:  1 1 45rem;
+    padding: 1rem 2rem;
+    text-align: center;
+
+}
+#div1 .row form {
+    display: flex;
+    align-items: center;
+    margin-top: 5rem;
+    background-color: var(--bg);
+    border: 1px solid #eee;
+    padding-left: 2rem;
+    width: 100rem;
+}
+#div1  .row form {
+    width: 100rem;
+    padding: 3%;
+    font-size: 1.rem;
+    background: none;
+}
+ .inputan{
+    margin-top:0;
+    display: inline-block;
+    padding: 1rem 2rem;
+    font-size: 1.rem;
+    color: #fff;
+    background-color: rgb(128, 0, 255);
+}
+/* logo */
+#imglg{
+    text-align: justify;
+
+}

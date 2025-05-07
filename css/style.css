@@ -37,7 +37,7 @@ nav a{
     color: black;
     text-decoration: none;
 }
-body{
+#body{
     background-image: url(../bahan/g.jpg);
     /* background-image: url(../bahan/backgorund.); */
     background-size: cover;
@@ -77,11 +77,20 @@ td{
     color:blue ;
 }
 .bg1{
-    background-image: url();
+    background-color: black;
+}
+form{
+    color: aliceblue;
 }
 iframe{
     position: relative;
+    
 }
 .article{
     text-align: justify;
+}
+#footer2{
+    padding: 250px;
+    font-size: medium;
+    margin: auto;
 }
