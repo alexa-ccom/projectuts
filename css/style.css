@@ -76,3 +76,12 @@ td{
     background-color: var(white);
     color:blue ;
 }
+.bg1{
+    background-image: url();
+}
+iframe{
+    position: relative;
+}
+.article{
+    text-align: justify;
+}
