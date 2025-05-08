@@ -88,6 +88,7 @@ iframe{
 }
 .article{
     text-align: justify;
+    border-style: solid;
 }
 #footer2{
     padding: 250px;
