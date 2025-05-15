@@ -45,9 +45,9 @@
     text-align: justify;
 }
 .article{
-    width: 1400px;
-    height: 250px;
-    margin-bottom: 15rem;
+    max-width: 250px;
+    height: 200px;
+    margin: 2rem auto;
     background-color:rgb(102, 74, 74) ;
     box-shadow: black;
     /* padding-left: 250px; */
@@ -55,12 +55,14 @@
 #div1{
     width: 250px;
     height: 250px;
-    margin-bottom: 15rem;
+    margin: 2rem auto;
     background-color:rgb(102, 74, 74) ;
     box-shadow: black;
     align-items: center;
-    position: relative;
-    padding-left: 3rem;
-    
-}
+    border-radius: 1rem;
+    margin-top: 2rem;
 
+}
+#footer3{
+    padding: 500px;
+}

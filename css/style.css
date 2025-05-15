@@ -74,7 +74,7 @@ td{
 }
 .hero a:hover{
     background-color: var(white);
-    color:blue ;
+    color: orange;
 }
 .bg1{
     background-color: black;
@@ -83,15 +83,17 @@ form{
     color: aliceblue;
 }
 iframe{
-    position: relative;
+    padding: 2rem;
+    margin: 0 auto;
     
 }
 .article{
     text-align: justify;
-    border-style: solid;
+    /* border-style: solid; */
+    max-width: 200%;
 }
 #footer2{
-    padding: 250px;
+    padding: 3rem;
     font-size: medium;
     margin: auto;
 }
